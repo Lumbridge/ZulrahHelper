@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "electron": "^4.0.5",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0"
   },
   "devDependencies": {
     "electron-packager": "^13.1.0"
