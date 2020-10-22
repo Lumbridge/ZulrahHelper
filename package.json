@@ -12,7 +12,7 @@
   "author": "Lumbridge",
   "license": "ISC",
   "dependencies": {
-    "electron": "^4.0.5",
+    "electron": "^7.2.4",
     "jquery": "^3.5.0",
     "jsdom": "^13.2.0"
   },
