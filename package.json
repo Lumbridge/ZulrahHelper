@@ -14,7 +14,7 @@
   "dependencies": {
     "electron": "^13.6.6",
     "jquery": "^3.5.0",
-    "jsdom": "^13.2.0"
+    "jsdom": "^16.5.0"
   },
   "devDependencies": {
     "electron-packager": "^13.1.0"
